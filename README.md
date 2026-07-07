@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=180&section=header&text=ShimizuBuilder%20Portfolio%20✨&fontSize=48&fontAlignY=50&fontColor=fff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:00BCD4,75:9C27B0,100:FF5722&height=180&section=header&text=ShimizuBuilder%20✨&fontSize=48&fontAlignY=50&fontColor=fff" width="100%" />
 </p>
 
 <p align="center">
